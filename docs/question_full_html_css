@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test de personnalité</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <header class="bg-red-500">
+        <h1 class="text-center text-2xl text-white py-6">Quel personnage <i>Super Mario</i> es tu ?</h1>
+    </header>
+    <main class="text-center p-2">
+          
+  <p class="ml-4 font-semibold">Ton objet préféré dans Mario Kart ?</p>
+  <br>
+  
+  <ul class="ml-8">
+    <li>Les champignons (ou le champignon d'or), pour prendre des raccourcis ! <a href=""><button class="rounded-full bg-green-500 px-2 text-white">►</button></a></li>
+    <li>L'éclair - pour mieux pouvoir écraser tes adversaires ! <a href=""><button class="rounded-full bg-blue-500 px-2 text-white">►</button></a></li>
+    <li>Les bananes et faux cadeaux - stratégiquement placés, ces objets sont redoutables ! <a href=""><button class="rounded-full bg-yellow-500 px-2 text-white">►</button></a></li>
+    <li>Les carapaces rouges (par lot de 1 ou de 3) - une valeur sûre ! <a href=""><button class="rounded-full bg-red-500 px-2 text-white">►</button></a></li>
+  </ul>
+
+  <br>
+  <p class="ml-4 italic">Question 1 sur 6</p>
+    </main>
+    <footer class="bg-red-500 py-4">
+        <p class="text-center font-semibold"> Copyright TruchMuch'</p>
+    </footer>
+</body>
+</html>
